@@ -1,1 +1,1 @@
-# odin-recipes
+El projecot consiste en un index de una página web en donde vamos a mostrar una serie de recetas con el conocimiento actual de HTML, de la consola y de Git que dispongo hasta la fecha.
